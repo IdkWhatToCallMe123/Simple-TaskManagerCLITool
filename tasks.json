@@ -1,32 +1,32 @@
 [
   {
     "TaskID": 1,
-    "WhatToDo": "Köp mjölk och bröd",
+    "WhatToDo": "Buy milk and bread before the fridge stages a rebellion",
     "Finished": false
   },
   {
     "TaskID": 2,
-    "WhatToDo": "Ät inte mat",
+    "WhatToDo": "Try not to eat everything in the house at 2 AM",
     "Finished": false
   },
   {
     "TaskID": 3,
-    "WhatToDo": "Göra läxor i C#",
+    "WhatToDo": "Finish C# homework without crying",
     "Finished": true
   },
   {
     "TaskID": 4,
-    "WhatToDo": "Träna på gymmet",
+    "WhatToDo": "Work out at the gym and pretend you know what you're doing",
     "Finished": true
   },
   {
     "TaskID": 5,
-    "WhatToDo": "Ring mormor",
+    "WhatToDo": "Call grandma before she calls you first (and wins)",
     "Finished": false
   },
   {
     "TaskID": 6,
-    "WhatToDo": "Spela minecraft",
+    "WhatToDo": "Play Minecraft and definitely NOT fall into lava again",
     "Finished": true
   }
 ]

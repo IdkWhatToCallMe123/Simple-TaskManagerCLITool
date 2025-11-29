@@ -5,6 +5,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <StartupObject>TaskManagerCLI.UserInterface</StartupObject>
     <Nullable>enable</Nullable>
+    <ApplicationIcon>icon.ico</ApplicationIcon>
   </PropertyGroup>
 
   <ItemGroup>
