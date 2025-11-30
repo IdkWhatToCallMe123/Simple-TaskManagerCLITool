@@ -30,6 +30,8 @@ class UserInterface
         } while (key != ConsoleKey.Enter);
 
         Console.CursorVisible = true;
+
+        // TODO: Are you doing something with this return value?
         return selectedIndex;
     }
 
